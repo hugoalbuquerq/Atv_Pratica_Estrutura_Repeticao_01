@@ -1,4 +1,4 @@
-// 1)    Faça uma função para receber um número e mostrar o resultado conforme a tabela abaixo:
+// 1   Faça uma função para receber um número e mostrar o resultado conforme a tabela abaixo:
 
 function dezenas(valor) {
     let number = valor
@@ -18,7 +18,7 @@ let result = 35
         console.log("plau")
     }
     
-// 3)      Faça uma função que recebe a idade do usuário e verifique se ele tem 18 anos ou mais. Se a resposta for positiva escrever “maior de idade”, senão “menor de idade”.
+// 3      Faça uma função que recebe a idade do usuário e verifique se ele tem 18 anos ou mais. Se a resposta for positiva escrever “maior de idade”, senão “menor de idade”.
 
 function adulto(valor) {
     let idade = valor
