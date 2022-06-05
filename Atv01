@@ -1,0 +1,19 @@
+function dezenas(valor) {
+    let number = valor
+    return number
+    }
+let result = 35
+    if (dezenas(result) < 10){
+        console.log("o número é unidade")
+    
+    } else if (dezenas(result) >=10 && dezenas(result) < 100){
+        console.log("o número é dezena")
+     
+    } else if (dezenas(result) >=100 && dezenas(result) < 1000){
+        console.log("o número é centena")
+      
+    } else {
+        console.log("plau")
+    }
+    
+    
