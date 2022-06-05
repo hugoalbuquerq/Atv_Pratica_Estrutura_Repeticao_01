@@ -24,8 +24,8 @@ function adulto(valor) {
     let idade = valor
     return idade
     }
-let result = 35
-    if (adulto(result) > 18){
+let resulty = 35
+    if (adulto(resulty) > 18){
         console.log("Maior de idade")
     
     } else {
